@@ -50,7 +50,7 @@
                 android:layout_toRightOf="@id/imageView"
                 android:paddingLeft="15dp"
                 android:paddingRight="15dp"
-                android:text="Category: Apparel"
+                android:text="Apparel"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                 android:textStyle="bold"
                 />
@@ -65,7 +65,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_below="@+id/textViewCategory"
                 android:layout_toRightOf="@id/imageView"
-                android:text="Subcategory: Pret"
+                android:text="Pret"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                 android:textStyle="bold"
                 />
